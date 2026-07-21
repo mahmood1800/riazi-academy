@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ریاضی آکادمی - تدریس ریاضی</title>
+    <style>
+        body { font-family: Tahoma, sans-serif; margin: 0; padding: 20px; background: #f4f4f9; color: #333; line-height: 1.6; }
+        h1, h2 { color: #1e3a8a; }
+        .math { background: #f0f0f0; padding: 10px; border-radius: 5px; font-size: 1.1em; }
+    </style>
+</head>
+<body>
+    <h1>ریاضی آکادمی</h1>
+    <p>تدریس مفهومی ریاضی دبیرستان و دانشگاه</p>
+    
+    <h2>مثال فرمول</h2>
+    <div class="math">سرعت لحظه‌ای: v(t) = dx/dt</div>
+    
+    <p>سایت در حال ساخت است. پست‌های ویرگول را دنبال کنید.</p>
+</body>
+</html>
